@@ -1,0 +1,4 @@
+# Project exclude paths
+/src/UnitTesting/BlueOrigin/target/
+/src/UnitTesting/Garage/target/
+/src/UnitTesting/ShopAndGoods_Unit-Testing/target/
